@@ -1,1 +1,1 @@
-## Data_Analytics_Projects
+## Business_Intelligence_Projects
