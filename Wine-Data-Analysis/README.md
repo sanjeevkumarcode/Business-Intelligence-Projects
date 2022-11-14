@@ -58,7 +58,7 @@ From the beginning of the project till the end of deployment, Every steps with p
 https://github.com/sanjeevkumarcode/Wine_Reviews_Analytics_Project_iNeuron.ai/blob/main/wine%20reviews_small.csv
 
 ## Power BI Dashboard :-
-https://github.com/sanjeevkumarcode/Wine_Reviews_Analytics_Project_iNeuron.ai/blob/main/Wine%20Analytics%20Dashboard.pbix
+https://github.com/sanjeevkumarcode/Business-Intelligence-Projects/blob/main/Wine-Data-Analysis/Wine%20Analytics%20Dashboard.pbix
 
 ## Linkedln Profile :-
 https://www.linkedin.com/in/sanjeev-kumar-a19171160/
